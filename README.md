@@ -19,4 +19,6 @@ Below you can view the Von Mises surfaces for each node:
 <a href="https://rawcdn.githack.com/xavierMarimon/CrownMaterials/5018ea3ee3ee080a0379f45af86e7f096ed938e4/Apnode.html " target="_blank">Ap node</a>
 
 
-![alt text](https://github.com/xavierMarimon/CrownMaterials/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/xavierMarimon/CrownMaterials/blob/main/Figure4.png?raw=true)
+
+
