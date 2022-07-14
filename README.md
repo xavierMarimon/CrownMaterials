@@ -1,7 +1,6 @@
 ## Node surfaces
 
 Below you can view the Von Mises surfaces for each node:
-<a href="https://raw.githack.com/xavierMarimon/CardiacTissueAnomaly/main/08-10-19-ad-c5.html" target="_blank">a</a>
 
 <a href="https://rawcdn.githack.com/xavierMarimon/CrownMaterials/5018ea3ee3ee080a0379f45af86e7f096ed938e4/ECnode.html" target="_blank">EC node</a>
 
